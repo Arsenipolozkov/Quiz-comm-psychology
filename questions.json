@@ -47,6 +47,31 @@
 				"To demonstrate authority and expertise",
 				"To plan the next steps in a conversation"
 			]
+		},
+				{
+			"type": "multiple",
+			"difficulty": "easy",
+			"category": "General Knowledge",
+			"question": "Who is the most effective leader?",
+			"correct_answer": "The one who creates the conditions for solving problem",
+			"incorrect_answers": [
+				"The one who gets late all the time",
+				"The one who argues with the employees",
+				"The one who cooks the best"
+			]
+		},
+		{
+			"type": "multiple",
+			"difficulty": "easy",
+			"category": "General Knowledge",
+			"question": "Find a mistake in one of those problem solutions",
+			"correct_answer": "Noticing the problem, after which you smoke a sigar",
+			"incorrect_answers": [
+				"Recognizing and defining the problem",
+				"Making the decision",
+				"Accepting and carrying out the decision"
+			]
 		}
+		
 	]
 }
