@@ -1,37 +1,125 @@
-{  "response_code": 0,  "results": [
-
-  {
-    "question": "What is the primary focus of Gordon's Leadership Model?",
-    "choice1": "Building relationships and trust",
-    "choice2": "Setting clear goals and expectations",
-    "choice3": "Providing structure and discipline",
-    "choice4": "Micromanaging and control",
-    "answer": 1
-  },
-  {
-    "question": "According to Gordon, what is the most important factor in creating a positive work environment?",
-    "choice1": "Clear communication",
-    "choice2": "Consistent discipline",
-    "choice3": "Building relationships and trust",
-    "choice4": "Setting high expectations",
-    "answer": 3
-  },
-  {
-    "question": "Which of the following statements best describes Gordon's approach to leadership?",
-    "choice1": "Autocratic leadership style",
-    "choice2": "Democratic leadership style",
-    "choice3": "Providing structure and discipline",
-    "choice4": "Relationship-centered leadership style",
-    "answer": 4
-  },
-  {
-    "question": "What is the primary goal of active listening in the Gordon",
-    "choice1": "To quickly resolve conflicts",
-    "choice2": "To demonstrate authority and expertise",
-    "choice3": "To reflect back the meaning and feeling of the speaker",
-    "choice4": "To plan the next steps in a conversation",
-    "answer": 4
-  }
-
-]
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+      "correct_answer": "Richard Branson",
+      "incorrect_answers": [
+        "Alan Sugar",
+        "Donald Trump",
+        "Bill Gates"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "When one is &quot;envious&quot;, they are said to be what color?",
+      "correct_answer": "Green",
+      "incorrect_answers": [
+        "Red",
+        "Blue",
+        "Yellow"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+      "correct_answer": "Slacking",
+      "incorrect_answers": [
+        "Smoking",
+        "Stealing",
+        "Cheating"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+      "correct_answer": "Subscriber",
+      "incorrect_answers": [
+        "Single",
+        "Secure",
+        "Solid"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+      "correct_answer": "Tango",
+      "incorrect_answers": [
+        "Target",
+        "Taxi",
+        "Turkey"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Five dollars is worth how many nickles?",
+      "correct_answer": "100",
+      "incorrect_answers": [
+        "50",
+        "25",
+        "69"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+      "correct_answer": "Thomas Jefferson",
+      "incorrect_answers": [
+        "Martin Van Buren",
+        "Ulysses Grant",
+        "John Quincy Adams"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which of these colours is NOT featured in the logo for Google?",
+      "correct_answer": "Pink",
+      "incorrect_answers": [
+        "Yellow",
+        "Blue",
+        "Green"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+      "correct_answer": "Monty Python",
+      "incorrect_answers": [
+        "The Goodies&lrm;",
+        "The League of Gentlemen&lrm;",
+        "The Penny Dreadfuls"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is Tasmania?",
+      "correct_answer": "An Australian State",
+      "incorrect_answers": [
+        "A flavor of Ben and Jerry&#039;s ice-cream",
+        "A Psychological Disorder",
+        "The Name of a Warner Brothers Cartoon Character"
+      ]
+    }
+  ]
 }
