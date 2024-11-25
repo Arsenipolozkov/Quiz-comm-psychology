@@ -29,12 +29,12 @@
       "type": "multiple",
       "difficulty": "easy",
       "category": "General Knowledge",
-      "question": "Which of the following statements best describes Gordon's approach to leadership?"",
+      "question": "Which of the following statements best describes Gordon's approach to leadership?",
       "correct_answer": "Relationship-centered leadership style",
       "incorrect_answers": [
 "Autocratic leadership style",
 "Democratic leadership style",
-"Providing structure and discipline",
+"Providing structure and discipline"
       ]
     }
   ]
