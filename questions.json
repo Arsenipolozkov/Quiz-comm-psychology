@@ -1,5 +1,5 @@
-[
-  results{
+{  "response_code": 0,  "results": [
+
   {
     "question": "What is the primary focus of Gordon's Leadership Model?",
     "choice1": "Building relationships and trust",
@@ -32,5 +32,6 @@
     "choice4": "To plan the next steps in a conversation",
     "answer": 4
   }
-  }
+
 ]
+}
