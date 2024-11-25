@@ -29,12 +29,12 @@
       "type": "multiple",
       "difficulty": "easy",
       "category": "General Knowledge",
-      "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
-      "correct_answer": "Slacking",
+      "question": "Which of the following statements best describes Gordon's approach to leadership?"",
+      "correct_answer": "Relationship-centered leadership style",
       "incorrect_answers": [
-        "Smoking",
-        "Stealing",
-        "Cheating"
+"Autocratic leadership style",
+"Democratic leadership style",
+"Providing structure and discipline",
       ]
     }
   ]
