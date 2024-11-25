@@ -5,12 +5,12 @@
       "type": "multiple",
       "difficulty": "easy",
       "category": "General Knowledge",
-      "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
-      "correct_answer": "Richard Branson",
+      "question": "What is the primary focus of Gordon's Leadership Model?",
+      "correct_answer": "Building relationships and trust",
       "incorrect_answers": [
-        "Alan Sugar",
-        "Donald Trump",
-        "Bill Gates"
+"Setting clear goals and expectations",
+"Providing structure and discipline",
+ "Micromanaging and control"
       ]
     },
     {
@@ -18,11 +18,11 @@
       "difficulty": "easy",
       "category": "General Knowledge",
       "question": "When one is &quot;envious&quot;, they are said to be what color?",
-      "correct_answer": "Green",
+      "correct_answer": "Building relationships and trust",
       "incorrect_answers": [
-        "Red",
-        "Blue",
-        "Yellow"
+ "Clear communication",
+ "Consistent discipline",
+ "Setting high expectations",
       ]
     },
     {
@@ -35,90 +35,6 @@
         "Smoking",
         "Stealing",
         "Cheating"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "General Knowledge",
-      "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
-      "correct_answer": "Subscriber",
-      "incorrect_answers": [
-        "Single",
-        "Secure",
-        "Solid"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "General Knowledge",
-      "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
-      "correct_answer": "Tango",
-      "incorrect_answers": [
-        "Target",
-        "Taxi",
-        "Turkey"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "General Knowledge",
-      "question": "Five dollars is worth how many nickles?",
-      "correct_answer": "100",
-      "incorrect_answers": [
-        "50",
-        "25",
-        "69"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "General Knowledge",
-      "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
-      "correct_answer": "Thomas Jefferson",
-      "incorrect_answers": [
-        "Martin Van Buren",
-        "Ulysses Grant",
-        "John Quincy Adams"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "General Knowledge",
-      "question": "Which of these colours is NOT featured in the logo for Google?",
-      "correct_answer": "Pink",
-      "incorrect_answers": [
-        "Yellow",
-        "Blue",
-        "Green"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "General Knowledge",
-      "question": "Terry Gilliam was an animator that worked with which British comedy group?",
-      "correct_answer": "Monty Python",
-      "incorrect_answers": [
-        "The Goodies&lrm;",
-        "The League of Gentlemen&lrm;",
-        "The Penny Dreadfuls"
-      ]
-    },
-    {
-      "type": "multiple",
-      "difficulty": "easy",
-      "category": "General Knowledge",
-      "question": "What is Tasmania?",
-      "correct_answer": "An Australian State",
-      "incorrect_answers": [
-        "A flavor of Ben and Jerry&#039;s ice-cream",
-        "A Psychological Disorder",
-        "The Name of a Warner Brothers Cartoon Character"
       ]
     }
   ]
