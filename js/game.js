@@ -18,7 +18,6 @@ let questions = []; //voir json
 //fetch question from .json:
 fetch(
   "questions.json",
-  // "https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple",
 )
   .then((res) => {
     return res.json();
