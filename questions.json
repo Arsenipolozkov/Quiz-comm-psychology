@@ -17,7 +17,7 @@
       "type": "multiple",
       "difficulty": "easy",
       "category": "General Knowledge",
-      "question": "When one is &quot;envious&quot;, they are said to be what color?",
+      "question": "According to Gordon, what is the most important factor in creating a positive work environment?",
       "correct_answer": "Building relationships and trust",
       "incorrect_answers": [
  "Clear communication",
@@ -35,6 +35,18 @@
 "Autocratic leadership style",
 "Democratic leadership style",
 "Providing structure and discipline"
+      ]
+    },
+        {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What is the primary goal of active listening in the Gordon",
+      "correct_answer": "To reflect back the meaning and feeling of the speaker",
+      "incorrect_answers": [
+"To quickly resolve conflicts",
+"To demonstrate authority and expertise",
+"To plan the next steps in a conversation"
       ]
     }
   ]
