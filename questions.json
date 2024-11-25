@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is the primary focus of Gordon's Leadership Model?",
+    "choice1": "Building relationships and trust",
+    "choice2": "Setting clear goals and expectations",
+    "choice3": "Providing structure and discipline",
+    "choice4": "Micromanaging and control",
+    "answer": 1
+  },
+  {
+    "question": "According to Gordon, what is the most important factor in creating a positive work environment?",
+    "choice1": "Clear communication",
+    "choice2": "Consistent discipline",
+    "choice3": "Building relationships and trust",
+    "choice4": "Setting high expectations",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following statements best describes Gordon's approach to leadership?",
+    "choice1": "Autocratic leadership style",
+    "choice2": "Democratic leadership style",
+    "choice3": "Providing structure and discipline",
+    "choice4": "Relationship-centered leadership style",
+    "answer": 4
+  },
+  {
+    "question": "What is the primary goal of active listening in the Gordon",
+    "choice1": "To quickly resolve conflicts",
+    "choice2": "To demonstrate authority and expertise",
+    "choice3": "To reflect back the meaning and feeling of the speaker",
+    "choice4": "To plan the next steps in a conversation",
+    "answer": 4
+  }
+]
